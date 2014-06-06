@@ -1,8 +1,8 @@
-# Command line tools written by swift
+# A command-line tool written in Swift
 
 **proof-of-concept**
 
-This cli written by [Swift](https://developer.apple.com/swift/ "Swift").
+This cli written in [Swift](https://developer.apple.com/swift/ "Swift").
 
 > clattner_llvm: Of course Swift supports #! scripts, you can immediately execute a swift script with "xcrun swift -i".
 
