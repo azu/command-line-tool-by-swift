@@ -4,6 +4,10 @@
 
 This cli written by [Swift](https://developer.apple.com/swift/ "Swift").
 
+> clattner_llvm: Of course Swift supports #! scripts, you can immediately execute a swift script with "xcrun swift -i".
+
+https://twitter.com/clattner_llvm/status/474593140511211520
+
 ## Usage
 
 ```sh
